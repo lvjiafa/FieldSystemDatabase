@@ -1,0 +1,728 @@
+
+
+ LOG file opened at 11/06/18 13:22:42
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:22:42
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:22:42
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:22:42
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:17:53
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:17:53
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:46:04
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:46:04
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:51:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:51:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:51:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:51:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:53:02
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:53:02
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:53:02
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:53:02
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:39:56
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:39:56
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:41:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:41:54
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:33
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:33
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:34
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:34
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:30
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:31
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:31
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:31
+
+Field Definitions for table EXTER_STUDENTS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    S_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    S_GRADE                         CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader

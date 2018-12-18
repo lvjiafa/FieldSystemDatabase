@@ -1,0 +1,1294 @@
+
+
+ LOG file opened at 10/31/18 17:11:11
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 17:11:11
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:07:20
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:07:23
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:29:38
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:29:41
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:38:08
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:38:11
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:38:53
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:38:53
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:43:06
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:43:06
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:44:27
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:44:27
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:49:19
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 19:49:22
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:16:50
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:16:53
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:20:20
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:20:20
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:27:33
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:27:36
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:48:50
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:48:50
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:48:51
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:48:51
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:56:02
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 12:56:02
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 13:00:00
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:00:00
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:31:47
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:31:48
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:35:33
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:35:33
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:37:46
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:37:46
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:37:47
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:37:47
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:42:54
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:42:54
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/06/18 23:47:59
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 23:47:59
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 10:29:14
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 10:29:15
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 10:29:16
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 10:29:16
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:39:55
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:39:55
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:41:54
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:41:54
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:45:04
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:45:05
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:49:32
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:32
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:49:33
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:33
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 18:53:32
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:32
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 19:05:29
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:29
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt
+
+
+ LOG file opened at 11/07/18 19:05:30
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:30
+
+Field Definitions for table EXTER_LEADERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    L_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    L_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    D_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field D_NUMBER
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file D:\data\emp\data\leadersData.txt

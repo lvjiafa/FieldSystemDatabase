@@ -1,0 +1,3037 @@
+
+
+ LOG file opened at 10/31/18 20:37:11
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:37:11
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 1 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 2 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 3 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 4 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 5 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 6 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 7 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 8 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 9 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 10 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 11 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 12 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 13 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 14 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 16 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 17 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 18 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 19 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 20 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 21 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 22 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 23 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 24 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 25 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 26 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 28 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 29 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 30 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 31 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 33 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 34 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 35 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 36 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 37 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 38 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 40 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 41 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 42 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 43 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 44 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 46 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 47 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 49 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 50 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 53 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 54 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 56 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 58 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 59 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 60 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 61 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 62 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 63 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 64 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 66 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 67 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 68 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 69 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 70 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 72 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 73 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 74 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 75 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 76 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 77 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 78 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 79 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 80 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 82 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 83 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 84 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 85 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 87 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 88 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 89 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 90 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 91 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 92 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 93 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 95 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 96 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 98 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 100 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 102 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 103 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 104 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 105 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 106 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 107 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 108 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 109 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 111 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 112 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 113 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 114 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 116 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 117 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 118 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 119 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 120 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 121 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 122 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 124 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 127 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 129 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 131 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 132 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 133 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 134 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 135 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 136 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 137 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 138 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 139 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 140 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 141 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 142 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 143 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 145 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 147 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 148 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 149 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 150 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 151 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 154 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 155 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 156 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 157 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 158 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 159 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 161 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 162 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 163 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 164 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 165 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 166 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 167 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 168 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 169 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 170 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 171 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 172 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 174 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 175 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 176 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 178 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 179 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 180 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 181 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 182 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 183 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 184 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 185 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 186 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 189 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 190 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 191 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 192 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 193 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 194 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 195 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 196 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 199 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 200 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 201 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 203 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 205 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 206 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 208 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 209 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 210 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 211 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 212 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 213 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 214 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 215 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 216 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 217 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 219 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 220 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 221 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 222 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 224 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 225 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 226 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 227 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 228 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 229 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 230 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 232 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 233 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 234 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 235 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 236 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 237 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 238 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 239 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 240 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 241 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 242 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 243 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 244 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 245 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 246 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 247 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 248 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 249 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 250 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 251 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 252 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 253 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 254 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 258 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 261 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 262 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 265 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 267 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 268 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 269 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 270 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 271 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 272 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 273 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 274 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 275 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 276 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 277 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 278 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 279 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 282 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 283 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 284 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 285 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 286 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 288 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 289 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 290 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 291 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 293 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 294 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 295 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 296 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 297 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 299 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 300 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 302 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 304 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 305 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 306 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 308 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 309 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 310 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 311 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 312 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 313 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 314 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 316 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 317 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 318 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 320 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 321 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 322 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 324 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 325 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 326 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 327 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 328 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 329 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 330 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 332 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 333 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 334 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 335 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 337 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 338 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 339 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 340 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 341 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 342 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 344 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 345 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 346 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 348 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 349 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 350 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 351 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 352 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 353 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 354 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 356 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 357 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 358 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 359 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 360 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 361 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 362 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 365 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 366 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 367 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 368 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 369 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 370 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 371 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 373 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 374 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 375 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 376 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 377 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 379 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 381 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 382 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 383 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 385 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 386 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 388 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 389 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 391 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 392 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 393 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 394 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 395 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 396 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 397 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 399 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 400 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 402 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 403 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 404 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 405 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 406 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 407 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 408 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 410 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 412 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 414 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 415 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 416 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 417 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 418 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 419 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 420 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 421 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 422 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 423 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 424 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 425 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 426 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 427 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 429 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 430 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 431 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 432 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 433 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 434 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 435 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 436 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 437 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 439 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 440 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 441 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 442 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 443 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 444 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 445 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 446 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 447 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 448 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 449 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 450 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 451 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 453 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 454 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 455 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 456 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 457 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 458 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 459 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 460 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 461 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 463 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 465 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 466 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 467 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 469 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 470 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 472 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 473 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 474 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 475 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 476 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 477 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 478 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 480 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 481 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 482 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 483 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 484 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 485 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 486 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 488 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 490 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 492 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 493 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 495 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 496 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 497 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 498 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 499 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 500 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 503 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 505 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 506 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 507 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 508 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 509 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 510 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 511 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 512 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 513 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 514 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 516 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 517 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 518 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 519 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 520 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 523 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 524 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 525 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 526 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 527 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 528 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 529 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 531 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 532 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 535 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 537 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 538 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 539 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 540 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 541 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 543 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 544 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 545 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 546 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 547 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 548 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 549 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 550 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 552 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 553 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 554 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 555 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 556 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 557 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 558 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 559 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 560 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 563 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 565 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 566 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 567 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 568 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 569 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 570 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 572 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 573 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 574 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 576 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 577 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 578 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 579 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 581 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 582 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 583 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 584 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 585 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 586 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 587 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 588 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 590 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 591 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 592 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 593 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 594 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 595 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 596 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 598 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 600 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 601 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 602 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 603 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 604 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 605 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 606 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 607 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 608 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 609 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 611 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 612 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 613 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 614 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 615 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 616 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 618 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 619 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 625 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 626 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 627 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 628 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 629 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 630 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 631 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 632 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 633 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 634 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 635 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 637 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 638 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 639 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 640 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 641 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 642 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 643 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 644 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 645 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 646 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 647 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 648 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 649 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 650 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 651 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 652 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 653 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 654 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 655 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 656 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 657 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 659 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 660 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 661 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 662 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 663 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 664 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 665 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 666 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 668 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 669 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 670 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 671 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 672 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 673 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 674 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 678 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 679 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 680 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 681 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 683 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 684 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 687 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 688 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 689 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 690 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 691 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 692 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 695 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 697 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 698 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 699 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 700 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 701 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 702 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 703 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 706 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 708 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 709 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 710 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 711 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 712 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 713 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 714 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 715 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 716 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 717 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 718 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 719 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 725 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 726 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 727 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 728 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 729 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 730 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 731 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 732 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 733 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 734 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 735 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 737 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 738 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 739 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 740 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 742 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 744 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 745 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 746 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 747 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 749 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 753 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 754 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 755 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 757 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 758 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 759 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 760 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 762 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 763 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 764 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 765 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 766 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 767 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 768 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 770 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 771 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 772 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 773 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 776 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 777 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 778 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 782 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 783 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 784 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 785 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 786 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 787 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 788 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 790 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 791 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 792 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 793 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 794 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 795 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 796 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 798 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 799 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 800 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 802 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 803 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 804 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 805 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 807 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 808 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 809 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 810 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 811 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 812 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 813 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 814 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 815 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 818 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 820 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 821 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 822 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 825 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 826 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 827 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 828 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 829 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 830 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 832 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 833 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 834 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 835 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 836 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 837 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 838 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 839 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 840 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 842 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 843 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 845 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 847 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 848 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 849 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 850 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 851 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 852 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 853 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 854 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 855 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 858 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 859 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 860 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 862 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 863 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 864 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 865 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 866 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 867 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 868 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 869 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 870 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 871 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 872 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 873 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 874 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 875 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 877 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 878 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 879 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 880 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 881 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 883 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 884 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 886 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 887 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 888 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 889 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 890 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 891 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 893 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 894 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 895 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 896 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 897 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 898 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 899 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 901 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 902 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 903 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 904 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 905 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 906 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 907 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 909 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 910 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 911 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 912 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 913 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 914 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 915 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 916 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 917 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 918 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 919 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 920 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 921 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 922 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 924 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 925 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 926 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 927 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 928 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 929 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 930 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 931 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 932 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 933 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 934 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 936 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 937 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 938 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 939 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 940 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 941 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 942 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 943 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 944 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 945 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 946 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 947 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 948 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 949 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 950 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 951 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 952 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 953 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 954 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 955 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 956 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 958 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 959 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 961 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 963 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 965 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 966 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 967 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 968 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 969 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 970 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 971 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 972 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 974 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 975 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 976 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 977 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 978 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 979 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 980 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 981 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 982 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 983 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04101: record 985 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field A_NUMBER
+KUP-04101: record 986 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 987 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 988 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 991 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 992 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 994 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 995 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 996 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 997 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 998 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 999 rejected in file F:\data\emp\data\teachersData.txt
+KUP-04021: field formatting error for field T_RANK
+KUP-04023: field start is after end of record
+KUP-04101: record 1000 rejected in file F:\data\emp\data\teachersData.txt
+
+
+ LOG file opened at 10/31/18 20:39:19
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:39:19
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:40:10
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:40:10
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:40:10
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 10/31/18 20:40:11
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:23:05
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:23:05
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:23:05
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 13:23:05
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:13:22
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:13:22
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:17:09
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/06/18 14:17:09
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:52:17
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:52:17
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:52:17
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 11:52:17
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:39:56
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:39:56
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:41:56
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:41:56
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:45:08
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:45:08
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:34
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:35
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:36
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:49:36
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:36
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:36
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:37
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 18:53:37
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:33
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:33
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:34
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 11/07/18 19:05:34
+
+Field Definitions for table EXTER_TEACHERS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    T_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_NAME                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    A_NUMBER                        CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    T_RANK                          CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
